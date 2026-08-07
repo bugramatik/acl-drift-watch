@@ -1,0 +1,14 @@
+.bsp/
+target/
+.idea/
+local.*
+src/main/resources/specs/KsmService.yml
+.metals/
+.bloop/
+data/
+__pycache__/
+node_modules/
+.ruff_cache/
+.venv/
+/ksm.env
+/ksm/
